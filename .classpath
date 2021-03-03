@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/h2/h2-1.4.200.jar"/>
+	<classpathentry kind="lib" path="lib/mysql/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc/oraclepki.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc/osdt_cert.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc/osdt_core.jar"/>
+	<classpathentry kind="lib" path="lib/postgres/postgresql-42.2.18.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite/sqlite-jdbc-3.32.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/ucanAccess/ucanaccess-5.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/ucanAccess/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/ucanAccess/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/ucanAccess/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/ucanAccess/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/mariadb/mariadb-java-client-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/cubrid/JDBC-11.0-latest-cubrid.jar"/>
+	<classpathentry kind="lib" path="lib/firebird/jaybird-4.0.2.java8.jar"/>
+	<classpathentry kind="lib" path="lib/firebird/connector-api-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/firebird/antlr-runtime-4.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/firebird/jna-5.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/derby/derby.jar"/>
+	<classpathentry kind="lib" path="lib/derby/derbyclient.jar"/>
+	<classpathentry kind="lib" path="lib/mssql/mssql-jdbc-9.2.0.jre8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
